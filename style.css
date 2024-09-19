@@ -1,0 +1,36 @@
+/* Malte Andersson TE23E */
+h1{
+    color: rgb(39, 133, 215);
+    background-color: rgb(204, 212, 219);
+    text-align: right;
+}
+
+body{
+    background-image: url(./img/moorish-pattern_644416-582.jpg);
+display: flex;
+flex-direction: column;
+}
+
+ul, ol{
+    background-color: #191970;
+}
+
+a{
+    color: #ffd700;
+    background-color: #191970;
+}
+
+a:hover{
+    color: indigo;
+    background-color: aqua;
+}
+
+a:active{
+    color: greenyellow;
+    background-color: tomato;
+}
+
+img{
+    height: 400px;
+    width: 400px;
+}
